@@ -1,6 +1,6 @@
 #variable used in function is called local variable and those written outside is called gloabal variable
 
-import pgzrun
+import pgzrun 
 
 music.play('bcg') #adding music
 
